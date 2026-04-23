@@ -1,1 +1,1 @@
-Edicion desd Github
+El fin de este trabajo es proyectar el avance dentro de repositorio 
